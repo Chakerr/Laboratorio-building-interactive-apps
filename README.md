@@ -25,7 +25,7 @@ El desarrollo se basa en la presentación **"Building Interactive Apps"**, que g
 
 3. **Lógica de Negocio:**
    - Implementación de la clase `Mascotas` con el método `getBreeds(String category)`, que devuelve una lista de razas basadas en la categoría seleccionada.
-   - Uso de `ArrayList<String>` para manejar las listas de razas.
+   - Uso de `Switch` para manejar las listas de razas.
 
 4. **Conexión entre la Interfaz y la Lógica:**
    - En la actividad `Activity_main`, se implementó el método `onClickFindBreeds(View view)` para manejar el evento de clic del botón.
