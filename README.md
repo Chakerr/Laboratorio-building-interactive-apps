@@ -46,6 +46,8 @@ El desarrollo se basa en la presentación **"Building Interactive Apps"**, que g
 
 Al seleccionar una categoría en el `Spinner` y hacer clic en el botón, la aplicación muestra la lista de razas correspondientes en el `TextView`.
 
+## Imagenes de funcionamiento
+![1](/img/1.png)
 ## Conclusión
 
 Este proyecto demostró la aplicación de los conceptos fundamentales de Android, incluyendo el diseño de interfaces de usuario, el manejo de recursos, la implementación de lógica de negocio y la interacción entre actividades y vistas. La extensión de la aplicación original a un nuevo contexto (mascotas y razas) permitió reforzar estos conceptos y aplicar buenas prácticas en el desarrollo de aplicaciones Android.
